@@ -80,10 +80,21 @@ You're now ready to use the Price Grid Creator UI with live data from the backen
 - ✅ In-memory data persistence (server-side)
 - ✅ Works across modern browsers (Chrome, Firefox, Edge)
 - ✅ Fully responsive (desktop & mobile views)
-- ❌ (Optional) Drag-and-drop support – **not implemented yet**
 
 ---
 
+## 🚧 Pending Feature
+
+### 🔄 Drag-and-Drop Support
+
+The drag-and-drop functionality for rearranging rows and columns is currently **in progress** and will be completed with a follow-up update. Due to time constraints, this feature could not be integrated fully within the initial 3-day timeline.
+
+The current architecture and UI are already prepared to support this feature with minimal disruption.
+
+➡️ **Planned Implementation:**  
+Using `@dnd-kit` for independent row and column drag-and-drop within the grid, with real-time visual updates and backend sync on save.
+
+---
 ### 📸 Screenshots
 
 ## UI Screenshots:
@@ -121,6 +132,19 @@ You're now ready to use the Price Grid Creator UI with live data from the backen
 
 ### Networks Tab on GET API:
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/36107305-b3c5-44c6-ba11-5e2d9ff42c5e" />
+
+### Networks Tab on POST API:
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/45b131b0-1be4-4335-992b-1029fbb5b0ed" />
+
+### Networks Tab on PUT API:
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/3ff8994e-a0a7-4dfc-87df-a2f0c94efcc6" />
+
+### Networks Tab on DELETE API:
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/c0ea1502-3288-46c5-adc0-8891f6040d2b" />
+
+
+
+
 
 
 

@@ -85,8 +85,44 @@ You're now ready to use the Price Grid Creator UI with live data from the backen
 ---
 
 ### 📸 Screenshots
-<img width="868" alt="image" src="https://github.com/user-attachments/assets/3520cbe4-5f16-4e14-8502-c3262f7b7cde" />
-<img width="845" alt="image" src="https://github.com/user-attachments/assets/77826ca4-40ca-4850-ae45-5dae97118fff" />
+
+## UI Screenshots:
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/80bead2f-c2b4-4716-9dfb-01aff9c70d8e" />
+
+# Updating Cell Value
+![image](https://github.com/user-attachments/assets/3071b425-414b-4912-823b-225b9f5cec65)
+
+# Updating Column Header
+![image](https://github.com/user-attachments/assets/bf74deeb-55f7-4587-a754-967976d10931)
+
+# Updating Row Header
+![image](https://github.com/user-attachments/assets/49048f63-023d-4fea-9d0c-67995b4b3fd0)
+
+# New Row Added
+![image](https://github.com/user-attachments/assets/bcd8e4a7-607b-43f0-bd11-8a88c3cf3497)
+
+# New Column Added
+![image](https://github.com/user-attachments/assets/8d50accb-9753-4616-9403-005321605b2e)
+
+# With Delete Option
+![image](https://github.com/user-attachments/assets/4a7e8008-357d-421c-b944-4addfd12cd6b)
+
+
+
+
+# /api/prices - GET
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/708e7af3-c8bf-48f5-8b38-c9f56b66f225" />
+
+# /api/widths - GET
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/bbbdd192-47d1-4040-8160-497d555f5447" />
+
+# /api/heights - GET
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/a3b26b8d-7967-435d-9bf9-a351cf9db50f" />
+
+## Networks Tab on GET API:
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/36107305-b3c5-44c6-ba11-5e2d9ff42c5e" />
+
+
 
   
 

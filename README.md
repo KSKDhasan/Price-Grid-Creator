@@ -31,9 +31,8 @@ After cloning the repository, you'll find two main folders:
 
    ```bash
    mvnw spring-boot:run
-   
-
-4.The API will be available at:
+   ```
+4. The API will be available at:
 👉 http://localhost:8080/api/prices
 
 
@@ -41,10 +40,19 @@ After cloning the repository, you'll find two main folders:
 
 1.Open the price_grid_app_ui folder in VS Code.
 2. In the terminal, install dependencies by running this command:
-
   ```bash
      npm install
-3.Start the development server:
+  ```
+3. Start the development server:
+   ```
+      npm run dev
+   ```
+4. The app will be accessible at:
+  👉 http://localhost:3000
+
+You're now ready to use the Price Grid Creator UI with live data from the backend API.
+   
+
     
   
 

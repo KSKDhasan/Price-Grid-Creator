@@ -344,7 +344,7 @@ const PriceTable: React.FC<PriceTableProps> = ({ headers, rowHeaders, data, isDe
                     size="icon"
                     onClick={handleAddColumn}
                   >
-                    <Plus size={16} />
+                    Add Column <Plus size={16} />
                   </Button>
                 </td>
               )}
@@ -353,9 +353,9 @@ const PriceTable: React.FC<PriceTableProps> = ({ headers, rowHeaders, data, isDe
         </tbody>
       </table>
 
-      <div className="flex justify-center border border-gray-300 p-2 ">
+      <div className="flex justify-center  p-2 ">
         <Button className="w-fit p-3" variant="outline" size="icon" onClick={handleAddRow}>
-          <Plus size={16} />
+          Add Row<Plus size={16} />
         </Button>
       </div>
     </div>
